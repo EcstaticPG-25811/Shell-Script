@@ -6,7 +6,7 @@ echo "enter the number of elements"
 read n
 
 echo "enter the array elements:"
-for ((i=0; i<n; i++))
+for (( i=0; i<n; i++ ))
 do
     read a[i]
 done
