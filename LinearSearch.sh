@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Linear search algorithm 
+#Linear Search Algorithm 
 
 echo "enter the number of elements"
 read n
